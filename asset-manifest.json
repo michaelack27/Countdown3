@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Countdown3/weather/static/css/main.96b224b8.css",
+    "main.js": "/Countdown3/weather/static/js/main.e15e217d.js",
+    "static/js/787.13d76ca7.chunk.js": "/Countdown3/weather/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/Countdown3/weather/index.html",
+    "main.96b224b8.css.map": "/Countdown3/weather/static/css/main.96b224b8.css.map",
+    "main.e15e217d.js.map": "/Countdown3/weather/static/js/main.e15e217d.js.map",
+    "787.13d76ca7.chunk.js.map": "/Countdown3/weather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b224b8.css",
+    "static/js/main.e15e217d.js"
+  ]
+}
